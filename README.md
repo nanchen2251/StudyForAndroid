@@ -84,7 +84,7 @@ https://github.com/GeniusVJR/LearningNotes
 
 　　这是一份非常详细的面试资料，涉及 Android、Java、设计模式、算法等等等，你能想到的，你不能想到的基本都包含了，可以说是适应于任何准备面试的 Android 开发者，看完这个之后别说你还不知道怎么面试！    
 
- ##关于作者
+##关于作者
     南尘<br>
     四川成都<br>
     [博客园](http://www.cnblogs.com/liushilin/)
