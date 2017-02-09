@@ -1,16 +1,14 @@
 # StudyForAndroid
 Study Android 学习资源 百科全书
-一、写在前面
-
-      最近项目重构，时间贼多，也没什么时间更新博客，个人的开源项目也是多时没有更新了：https://github.com/nanchen2251/AiYaSchoolPush，然而没有更新不代表我不在乎，后面一有空还是会继续提交的。
-
-      还是来冒个泡，给大家献上一些福利，这些项目要么是 GitHub 上影响力很大，要么是对你们很有用的项目：  
-
-     【本文内容资源全部来自张哥：https://github.com/stormzhang】  
+##一、写在前面
+最近项目重构，时间贼多，也没什么时间更新博客，个人的开源项目也是多时没有更新了：https://github.com/nanchen2251/AiYaSchoolPush，
+然而没有更新不代表我不在乎，后面一有空还是会继续提交的。
+还是来冒个泡，给大家献上一些福利，这些项目要么是 GitHub 上影响力很大，要么是对你们很有用的项目：  
+【本文内容资源全部来自张哥：https://github.com/stormzhang】  
 
  
 
-1、free-programming-books    
+####1、free-programming-books    
 
 [https://github.com/vhf/free-programming-books](https://github.com/vhf/free-programming-books)    
 
@@ -18,15 +16,14 @@ Study Android 学习资源 百科全书
 
    
 
-2、oh-my-zsh    
-
-    [https://github.com/robbyrussell/oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) 
+####2、oh-my-zsh    
+[https://github.com/robbyrussell/oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) 
 
 　　俗话说，不会用 shell 的程序员不是真正的程序员，所以建议每个程序员都懂点 shell，有用不说，装逼利器啊！而 oh-my-zsh 毫无疑问就是目前最流行，最酷炫的 shell，不多说了，懂得自然懂，不懂的以后你们会懂的！
 
    
 
-3、awesome    
+####3、awesome    
 
       https://github.com/sindresorhus/awesome    
 
@@ -35,7 +32,7 @@ Study Android 学习资源 百科全书
 
    
 
-4、github-cheat-sheet    
+####4、github-cheat-sheet    
 
       https://github.com/tiimgreen/github-cheat-sheet/   
 
@@ -44,7 +41,7 @@ Study Android 学习资源 百科全书
 
    
 
-5、android-open-project    
+####5、android-open-project    
 
       https://github.com/Trinea/android-open-project    
 
@@ -54,7 +51,7 @@ Study Android 学习资源 百科全书
 
  
 
-6、awesome-android-ui    
+####6、awesome-android-ui    
 
       https://github.com/wasabeef/awesome-android-ui    
 
@@ -63,7 +60,7 @@ Study Android 学习资源 百科全书
 
    
 
-7、Android_Data    
+####7、Android_Data    
 
       https://github.com/Freelander/Android_Data    
 
@@ -72,7 +69,7 @@ Study Android 学习资源 百科全书
 
    
 
-8、AndroidInterview-Q-A    
+####8、AndroidInterview-Q-A    
 
       https://github.com/JackyAndroid/AndroidInterview-Q-A/blob/master/README-CN.md   
 
@@ -81,7 +78,7 @@ Study Android 学习资源 百科全书
 
    
 
-9、LearningNotes    
+####9、LearningNotes    
 
       https://github.com/GeniusVJR/LearningNotes    
 
