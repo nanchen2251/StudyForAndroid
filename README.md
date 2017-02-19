@@ -1,5 +1,5 @@
 # StudyForAndroid
-Study Android 学习资源 百科全书
+# 这是你不应该错过的一本百科全书，开源资料持续更新中~
 ##一、写在前面
 最近项目重构，时间贼多，也没什么时间更新博客，个人的开源项目也是多时没有更新了：https://github.com/nanchen2251/AiYaSchoolPush，
 然而没有更新不代表我不在乎，后面一有空还是会继续提交的。
