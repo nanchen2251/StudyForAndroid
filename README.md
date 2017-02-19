@@ -82,7 +82,15 @@ https://github.com/JackyAndroid/AndroidInterview-Q-A/blob/master/README-CN.md
 
 https://github.com/GeniusVJR/LearningNotes    
 
-　　这是一份非常详细的面试资料，涉及 Android、Java、设计模式、算法等等等，你能想到的，你不能想到的基本都包含了，可以说是适应于任何准备面试的 Android 开发者，看完这个之后别说你还不知道怎么面试！    
+　　这是一份非常详细的面试资料，涉及 Android、Java、设计模式、算法等等等，你能想到的，你不能想到的基本都包含了，可以说是适应于任何准备面试的 Android 开发者，看完这个之后别说你还不知道怎么面试！
+
+
+
+####10、AndroidUtilCode
+
+https://github.com/Blankj/AndroidUtilCode
+
+　　如果你是Android开发者，这个东西绝对不容错过，这是楼主最新发掘的超级好用的各种工具类集合，还在犹豫什么，快去看看吧。
 
 ##关于作者
     南尘<br>
