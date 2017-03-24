@@ -1,6 +1,6 @@
 # StudyForAndroid
 # 这是你不应该错过的一本百科全书，开源资料持续更新中~
-##一、写在前面
+## 一、写在前面
 最近项目重构，时间贼多，也没什么时间更新博客，个人的开源项目也是多时没有更新了：https://github.com/nanchen2251/AiYaSchoolPush，
 然而没有更新不代表我不在乎，后面一有空还是会继续提交的。
 还是来冒个泡，给大家献上一些福利，这些项目要么是 GitHub 上影响力很大，要么是对你们很有用的项目：  
@@ -8,7 +8,7 @@
 
  
 
-####1、free-programming-books    
+#### 1、free-programming-books    
 
 [https://github.com/vhf/free-programming-books](https://github.com/vhf/free-programming-books)    
 
@@ -16,14 +16,14 @@
 
    
 
-####2、oh-my-zsh    
+#### 2、oh-my-zsh    
 [https://github.com/robbyrussell/oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) 
 
 　　俗话说，不会用 shell 的程序员不是真正的程序员，所以建议每个程序员都懂点 shell，有用不说，装逼利器啊！而 oh-my-zsh 毫无疑问就是目前最流行，最酷炫的 shell，不多说了，懂得自然懂，不懂的以后你们会懂的！
 
    
 
-####3、awesome    
+#### 3、awesome    
 
  https://github.com/sindresorhus/awesome    
 
@@ -32,7 +32,7 @@
 
    
 
-####4、github-cheat-sheet    
+#### 4、github-cheat-sheet    
 
   https://github.com/tiimgreen/github-cheat-sheet/   
 
@@ -41,7 +41,7 @@
 
    
 
-####5、android-open-project    
+#### 5、android-open-project    
 
 https://github.com/Trinea/android-open-project    
 
@@ -51,7 +51,7 @@ https://github.com/Trinea/android-open-project
 
  
 
-####6、awesome-android-ui    
+#### 6、awesome-android-ui    
 
 https://github.com/wasabeef/awesome-android-ui    
 
@@ -60,7 +60,7 @@ https://github.com/wasabeef/awesome-android-ui
 
    
 
-####7、Android_Data    
+#### 7、Android_Data    
 
 https://github.com/Freelander/Android_Data    
 
@@ -69,7 +69,7 @@ https://github.com/Freelander/Android_Data
 
    
 
-####8、AndroidInterview-Q-A    
+#### 8、AndroidInterview-Q-A    
 
 https://github.com/JackyAndroid/AndroidInterview-Q-A/blob/master/README-CN.md   
 
@@ -78,7 +78,7 @@ https://github.com/JackyAndroid/AndroidInterview-Q-A/blob/master/README-CN.md
 
    
 
-####9、LearningNotes    
+#### 9、LearningNotes    
 
 https://github.com/GeniusVJR/LearningNotes    
 
@@ -86,13 +86,13 @@ https://github.com/GeniusVJR/LearningNotes
 
 
 
-####10、AndroidUtilCode
+#### 10、AndroidUtilCode
 
 https://github.com/Blankj/AndroidUtilCode
 
 　　如果你是Android开发者，这个东西绝对不容错过，这是楼主最新发掘的超级好用的各种工具类集合，还在犹豫什么，快去看看吧。
 
-##关于作者
+## 关于作者
     南尘<br>
     四川成都<br>
     [博客园](http://www.cnblogs.com/liushilin/)
