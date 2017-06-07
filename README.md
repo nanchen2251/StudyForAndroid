@@ -96,7 +96,8 @@ https://github.com/Blankj/AndroidUtilCode
 #### 11、Kotlin
    
 https://www.kotlincn.net/docs/reference/
-    Kotlin被炒的这么火，随着Kotlin被Android作为官方推荐语言，那有没有一个合适的中文学习网站呢？没错，这个网站你一定需要。
+    
+ <br/>Kotlin被炒的这么火，随着Kotlin被Android作为官方推荐语言，那有没有一个合适的中文学习网站呢？没错，这个网站你一定需要。
 
 ## 关于作者
     南尘<br>
