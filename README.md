@@ -91,6 +91,12 @@ https://github.com/GeniusVJR/LearningNotes
 https://github.com/Blankj/AndroidUtilCode
 
 　　如果你是Android开发者，这个东西绝对不容错过，这是楼主最新发掘的超级好用的各种工具类集合，还在犹豫什么，快去看看吧。
+  
+
+#### 11、Kotlin
+   
+https://www.kotlincn.net/docs/reference/
+    Kotlin被炒的这么火，随着Kotlin被Android作为官方推荐语言，那有没有一个合适的中文学习网站呢？没错，这个网站你一定需要。
 
 ## 关于作者
     南尘<br>
