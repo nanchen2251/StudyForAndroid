@@ -100,8 +100,48 @@ https://www.kotlincn.net/docs/reference/
 
 　　Kotlin被炒的这么火，随着Kotlin被Android作为官方推荐语言，那有没有一个合适的中文学习网站呢？没错，这个网站你一定需要。    
  
+#### 12、RxJava2
+http://www.jianshu.com/p/464fa025229e
 
-## 关于作者
+　　良心话，这是LZ看过最通俗易懂的RxJava2教程，一共九章，我不是打广告的。 
+
+### 关于作者
     南尘<br>
     四川成都<br>
+    [其它开源](https://github.com/nanchen2251/)<br>
     [博客园](http://www.cnblogs.com/liushilin/)
+    
+#### 有码走遍天下 无码寸步难行（引自网络）
+
+> 1024 - 梦想，永不止步!  
+爱编程 不爱Bug  
+爱加班 不爱黑眼圈  
+固执 但不偏执  
+疯狂 但不疯癫  
+生活里的菜鸟  
+工作中的大神  
+身怀宝藏，一心憧憬星辰大海  
+追求极致，目标始于高山之巅  
+一群怀揣好奇，梦想改变世界的孩子  
+一群追日逐浪，正在改变世界的极客  
+你们用最美的语言，诠释着科技的力量  
+你们用极速的创新，引领着时代的变迁  
+  
+------至所有正在努力奋斗的程序猿们！加油！！  
+    
+## Licenses
+```
+ Copyright 2017 nanchen(刘世麟)
+
+ Licensed under the Apache License, Version 2.0 (the "License");
+ you may not use this file except in compliance with the License.
+ You may obtain a copy of the License at
+
+      http://www.apache.org/licenses/LICENSE-2.0
+
+ Unless required by applicable law or agreed to in writing, software
+ distributed under the License is distributed on an "AS IS" BASIS,
+ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ See the License for the specific language governing permissions and
+ limitations under the License.
+```
