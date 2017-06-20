@@ -103,7 +103,12 @@ https://www.kotlincn.net/docs/reference/
 #### 12、RxJava2
 http://www.jianshu.com/p/464fa025229e
 
-　　良心话，这是LZ看过最通俗易懂的RxJava2教程，一共九章，我不是打广告的。 
+　　良心话，这是LZ看过最通俗易懂的RxJava2教程，一共九章，我不是打广告的。
+  
+#### 13、RxJava2中文文档翻译
+https://github.com/mcxiaoke/RxDocs
+
+　　oh,这真是夸张，无意间发现了这么一个好东西，对于一些看英文文档比较吃力的小伙伴，真的是福利满满，里面不仅包含Rx系列的中文翻译，其它出名的框架资料也有外链接哦，快去看看吧~ 
 
 ### 关于作者
     南尘<br>
