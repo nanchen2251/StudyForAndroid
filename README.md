@@ -101,10 +101,9 @@ https://www.kotlincn.net/docs/reference/
 　　Kotlin被炒的这么火，随着Kotlin被Android作为官方推荐语言，那有没有一个合适的中文学习网站呢？没错，这个网站你一定需要。    
  
 #### 12、RxJava2
-http://www.jianshu.com/p/464fa025229e
+http://www.apkbus.com/blog-898535-68185.html
 
-　　良心话，这是LZ看过最通俗易懂的RxJava2教程，一共九章，我不是打广告的。
-  
+　　这是笔者自己写的一篇 RxJava 2.x 的文章，有兴趣的可以看看~
 #### 13、RxJava2中文文档翻译
 https://github.com/mcxiaoke/RxDocs
 
