@@ -104,11 +104,15 @@ https://www.kotlincn.net/docs/reference/
 https://github.com/nanchen2251/RxJava2Examples
 
 　　这是笔者自己写的 RxJava 2.x 系列的代码(附带技术文章)，有兴趣的可以看看~
-#### 13、RxJava2中文文档翻译
+#### 13、RxJava2 中文文档翻译
 https://github.com/mcxiaoke/RxDocs
 
 　　oh,这真是夸张，无意间发现了这么一个好东西，对于一些看英文文档比较吃力的小伙伴，真的是福利满满，里面不仅包含Rx系列的中文翻译，其它出名的框架资料也有外链接哦，快去看看吧~ 
 
+#### 14、 awesome-adb
+https://github.com/mzlogin/awesome-adb
+
+　　这是一个非常棒的 ADB 命令行总结，托管于 GitHub ,内容齐全，排版精美，囊括了平时开发测试中常用的和不常用的各种命令，并且持续更新中，推荐大家关注一下。
 ### 关于作者
     南尘<br>
     四川成都<br>
