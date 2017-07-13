@@ -113,6 +113,12 @@ https://github.com/mcxiaoke/RxDocs
 https://github.com/mzlogin/awesome-adb
 
 　　这是一个非常棒的 ADB 命令行总结，托管于 GitHub ,内容齐全，排版精美，囊括了平时开发测试中常用的和不常用的各种命令，并且持续更新中，推荐大家关注一下。
+  
+  
+#### 15、 Git 使用教程详解
+http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000
+
+　　这是廖雪峰大神总结的 Git 教程，可谓非常全面，涵盖面非常广。不管你是用 GitHub 还是 Git 作为版本控制工具，我想此教程是你必看的。
 ### 关于作者
     南尘<br>
     四川成都<br>
