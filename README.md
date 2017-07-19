@@ -100,8 +100,66 @@ https://www.kotlincn.net/docs/reference/
 
 　　Kotlin被炒的这么火，随着Kotlin被Android作为官方推荐语言，那有没有一个合适的中文学习网站呢？没错，这个网站你一定需要。    
  
+#### 12、RxJava2
+https://github.com/nanchen2251/RxJava2Examples
 
-## 关于作者
+　　这是笔者自己写的 RxJava 2.x 系列的代码(附带技术文章)，有兴趣的可以看看~
+#### 13、RxJava2 中文文档翻译
+https://github.com/mcxiaoke/RxDocs
+
+　　oh,这真是夸张，无意间发现了这么一个好东西，对于一些看英文文档比较吃力的小伙伴，真的是福利满满，里面不仅包含Rx系列的中文翻译，其它出名的框架资料也有外链接哦，快去看看吧~ 
+
+#### 14、 awesome-adb
+https://github.com/mzlogin/awesome-adb
+
+　　这是一个非常棒的 ADB 命令行总结，托管于 GitHub ,内容齐全，排版精美，囊括了平时开发测试中常用的和不常用的各种命令，并且持续更新中，推荐大家关注一下。
+  
+  
+#### 15、 Git 使用教程详解
+http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000
+
+　　这是廖雪峰大神总结的 Git 教程，可谓非常全面，涵盖面非常广。不管你是用 GitHub 还是 Git 作为版本控制工具，我想此教程是你必看的。
+### 关于作者
     南尘<br>
     四川成都<br>
-    [博客园](http://www.cnblogs.com/liushilin/)
+    [其它开源](https://github.com/nanchen2251/)<br>
+    [个人博客](https://nanchen2251.github.io/)<br>
+    [简书](http://www.jianshu.com/u/f690947ed5a6)<br>
+    [博客园](http://www.cnblogs.com/liushilin/)<br>
+    欢迎投稿(关注)我的唯一公众号，公众号搜索 nanchen 或者扫描下方二维码：<br>
+    ![](http://images2015.cnblogs.com/blog/845964/201707/845964-20170718083641599-1963842541.jpg)
+    
+#### 有码走遍天下 无码寸步难行（引自网络）
+
+> 1024 - 梦想，永不止步!  
+爱编程 不爱Bug  
+爱加班 不爱黑眼圈  
+固执 但不偏执  
+疯狂 但不疯癫  
+生活里的菜鸟  
+工作中的大神  
+身怀宝藏，一心憧憬星辰大海  
+追求极致，目标始于高山之巅  
+一群怀揣好奇，梦想改变世界的孩子  
+一群追日逐浪，正在改变世界的极客  
+你们用最美的语言，诠释着科技的力量  
+你们用极速的创新，引领着时代的变迁  
+  
+------至所有正在努力奋斗的程序猿们！加油！！  
+    
+## Licenses
+```
+ Copyright 2017 nanchen(刘世麟)
+
+ Licensed under the Apache License, Version 2.0 (the "License");
+ you may not use this file except in compliance with the License.
+ You may obtain a copy of the License at
+
+      http://www.apache.org/licenses/LICENSE-2.0
+
+ Unless required by applicable law or agreed to in writing, software
+ distributed under the License is distributed on an "AS IS" BASIS,
+ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ See the License for the specific language governing permissions and
+ limitations under the License.
+```
