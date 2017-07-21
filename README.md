@@ -120,6 +120,13 @@ https://github.com/mzlogin/awesome-adb
 http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000
 
 　　这是廖雪峰大神总结的 Git 教程，可谓非常全面，涵盖面非常广。不管你是用 GitHub 还是 Git 作为版本控制工具，我想此教程是你必看的。
+  
+#### 16、 Android 面试题整理
+https://github.com/MindorksOpenSource/android-interview-questions （amitshekhariitbhu）
+https://github.com/stormzhang/android-interview-questions-cn （stromzhang）
+
+　　面试依然是亘古不变的话题，amitshekhariitbhu 大神为我们做了 Android 的面试问题整理，无奈只有英文的。不过帅比张和他的朋友们励志为 Android 乃至更大的领域提供中文版本，所有有了第二个地址。
+  
 ### 关于作者
     南尘<br>
     四川成都<br>
