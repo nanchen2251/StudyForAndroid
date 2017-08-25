@@ -128,6 +128,11 @@ https://github.com/stormzhang/android-interview-questions-cn （stormzhang）
 　　面试依然是亘古不变的话题，amitshekhariitbhu 大神为我们做了 Android 的面试问题整理，无奈只有英文的。不过帅比张和他的朋友们励志为 Android 乃至更大的领域提供中文版本，所以有了第二个地址。
   
 
+#### 17、 React-native-guide
+https://github.com/reactnativecn/react-native-guide
+
+　　也许你会很奇怪，为什么我收录了前端的 React-native 的学习资料，想必我不用多说了吧。懂的人自然懂。该库包含了全面的 RN 学习指南，不容错过。
+
 ### 关于作者
     南尘<br>
     四川成都<br>
