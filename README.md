@@ -127,10 +127,7 @@ https://github.com/stormzhang/android-interview-questions-cn （stormzhang）
 
 　　面试依然是亘古不变的话题，amitshekhariitbhu 大神为我们做了 Android 的面试问题整理，无奈只有英文的。不过帅比张和他的朋友们励志为 Android 乃至更大的领域提供中文版本，所以有了第二个地址。
   
-#### 17、 Android UI 
-https://github.com/wasabeef/awesome-android-ui
 
-　　 [awesome](https://github.com/sindresorhus/awesome) 是个超赞的库，目前在 GitHub 上星星数也是遥遥领先，但我这里主要是提供 Android 方面的。Adroid UI 是个大话题。所以不妨去它下面的 [android-ui](https://github.com/wasabeef/awesome-android-ui) 看看。
 ### 关于作者
     南尘<br>
     四川成都<br>
