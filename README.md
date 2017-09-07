@@ -1,7 +1,7 @@
 # StudyForAndroid
 # 这是你不应该错过的一本百科全书，开源资料持续更新中~
 
-### 欢迎加入Android技术交流群：118116509
+#### 欢迎加入开发交流QQ群：118116509 <a target="_blank" href="//shang.qq.com/wpa/qunwpa?idkey=8764b119b3aeb121863fd0177f134db3948d17a7f9b551c3e3c0f903b561d3a1"><img border="0" src="http://pub.idqqimg.com/wpa/images/group.png" alt="Android 神探侧漏交流群" title="Android 神探侧漏交流群"></a>(点击图标即可加入)
 ### 欢迎贡献Pull requests, 我会根据内容 Merge.
 
 ## 一、写在前面
