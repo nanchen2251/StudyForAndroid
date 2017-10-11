@@ -132,6 +132,11 @@ https://github.com/stormzhang/android-interview-questions-cn （stormzhang）
 https://github.com/reactnativecn/react-native-guide
 
 　　也许你会很奇怪，为什么我收录了前端的 React-native 的学习资料，想必我不用多说了吧。懂的人自然懂。该库包含了全面的 RN 学习指南，不容错过。
+  
+#### 17、 RxJava 线下活动视频及其文档
+https://github.com/zhihu/zhihu-rxjava-meetup
+
+　　扔物线大神朱凯结合知乎 Android 技术开发团队在北京进行了非常 Nice 的 RxJava 在 Android 中的开发交流，带了视频和 PPT，扔物线朱凯，业界良心。视频已经查看，推荐关注。
 
 ### 关于作者
     南尘<br>
